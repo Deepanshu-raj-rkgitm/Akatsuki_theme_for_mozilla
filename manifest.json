@@ -5,7 +5,7 @@
     "description": "Akatsuki jaise nikle launde khooni.",
     "theme": {
       "images": {
-        "theme_ntp_background": "images/bg.png"
+        "theme_ntp_background": "bg.png"
       },
       "colors": {
         "frame": "rgb(140,131,140)", 
@@ -23,6 +23,6 @@
       }
     },
     "icons": {
-      "128": "images/icon.png"
+      "128": "icon.png"
     }
 }
