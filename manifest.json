@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "version": "1.0",
+    "name": "Akatsuki",
+    "description": "Akatsuki jaise nikle launde khooni.",
+    "theme": {
+      "images": {
+        "theme_ntp_background": "images/bg.png"
+      },
+      "colors": {
+        "frame": "rgb(140,131,140)", 
+        "toolbar": "rgb(172,7,7)",
+        "tab_text": "rgb(17,16,16)",
+        "tab_background_text": "rgb(7,16,16)",
+        "bookmark_text": "rgb(17,16,16)",
+        "ntp_background": "rgb(0, 0, 0)",
+        "ntp_text": "rgb(17,16,16)",
+        "button_background": "rgb(57,57,57)",
+        "control_buttons": "rgb(0, 255, 0)",       
+        "control_buttons_hover": "rgb(106,111,94)",
+        "control_buttons_active": "rgb(100,164,188)",
+        "control_button_background": "rgb(0,0,0)"
+      }
+    },
+    "icons": {
+      "128": "images/icon.png"
+    }
+}
